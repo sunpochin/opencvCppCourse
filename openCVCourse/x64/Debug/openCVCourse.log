@@ -1,0 +1,5 @@
+﻿  project1.cpp
+C:\Users\sunpo\source\repos\openCVCourse\openCVCourse\project1.cpp(44,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\sunpo\source\repos\openCVCourse\openCVCourse\project1.cpp(51,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\sunpo\source\repos\openCVCourse\openCVCourse\project1.cpp(95,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  openCVCourse.vcxproj -> C:\Users\sunpo\source\repos\openCVCourse\x64\Debug\openCVCourse.exe
